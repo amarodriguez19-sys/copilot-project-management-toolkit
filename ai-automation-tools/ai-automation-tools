@@ -1,1 +1,88 @@
 
+# 🧠 Copilot Project Management Toolkit
+
+> **Toolkit profesional de PMO, Ingeniería de Procesos y Transformación Digital**, potenciado con IA generativa (Copilot, ChatGPT, Claude) para la gestión moderna de proyectos, especialmente orientado al sector **Tecnología de la Información (TI) y GovTech**.
+
+[![Estado](https://img.shields.io/badge/estado-en%20construcción-yellow)]()
+[![Licencia](https://img.shields.io/badge/licencia-MIT-blue)]()
+[![Enfoque](https://img.shields.io/badge/enfoque-PMO%20%7C%20TI%20%7C%20Procesos-informational)]()
+
+---
+
+## 🎯 Propósito del Repositorio
+
+Este repositorio centraliza **plantillas, casos de estudio, prompts de IA, herramientas y documentación** que demuestran competencias reales de gestión de proyectos y transformación de procesos, con foco en:
+
+- **Gestión de Proyectos (PMO)** bajo estándares PMI/PMBOK
+- **Ingeniería y mapeo de procesos** (AS-IS / TO-BE, BPMN)
+- **Metodologías Lean-Agile** (Scrum, Kanban, mejora continua)
+- **Transformación Digital** apoyada en IA generativa (Copilot, ChatGPT, Claude)
+- **Portafolio profesional** con casos de estudio reales anonimizados (NDA-safe)
+
+Este toolkit funciona tanto como **base operativa reutilizable** (plantillas listas para usar en proyectos reales) como **portafolio profesional** para posicionamiento en el sector TI.
+
+---
+
+## 🗂️ Estructura del Repositorio
+
+| Carpeta | Descripción |
+|---|---|
+| 📁 [`ai-automation-tools/`](./ai-automation-tools) | Herramientas, scripts e integraciones de IA aplicadas a gestión de proyectos |
+| 📁 [`assets/`](./assets) | Imágenes, diagramas exportados y recursos visuales de soporte |
+| 📁 [`case-studies/`](./case-studies) | Casos de estudio de transformación de procesos y proyectos, incluyendo guía de anonimización NDA-safe |
+| 📁 [`documentation-samples/`](./documentation-samples) | Ejemplos de documentación técnica, SOPs y manuales |
+| 📁 [`lean-agile-tools/`](./lean-agile-tools) | Artefactos de Lean, Agile, Scrum, Kanban y mejora continua |
+| 📁 [`process-maps/`](./process-maps) | Mapeo de procesos, flujogramas y arquitecturas AS-IS / TO-BE |
+| 📁 [`productivity-prompts/`](./productivity-prompts) | Biblioteca de prompts para Copilot, ChatGPT, Claude y otros asistentes de IA |
+| 📁 [`project-templates/`](./project-templates) | Plantillas de PMO: Acta de constitución, presupuesto, riesgos, stakeholders, etc. |
+
+---
+
+## 📚 Contenido Disponible
+
+### 📁 case-studies/
+| Documento | Descripción |
+|---|---|
+| [`case-study-template.md`](./case-studies/case-study-template.md) | Plantilla estándar para documentar cualquier caso de estudio de transformación o proyecto |
+| [`example-national-digital-identity-system.md`](./case-studies/example-national-digital-identity-system.md) | Caso de estudio ejemplo (anonimizado) — Implementación de sistema nacional de identificación digital |
+| [`nda-safe-portfolio-guidelines.md`](./case-studies/nda-safe-portfolio-guidelines.md) | Guía de buenas prácticas para publicar experiencia real bajo NDA sin violar confidencialidad |
+
+> 📌 El resto de las secciones se irá poblando progresivamente. Consulta la sección [Roadmap](#-roadmap-de-contenidos) para ver el estado de avance.
+
+---
+
+## 🧭 Cómo Usar Este Repositorio
+
+1. **Si buscas una plantilla lista para usar:** ve a `project-templates/`, `lean-agile-tools/` o `process-maps/` según el artefacto que necesites.
+2. **Si buscas inspiración o evidencia de experiencia aplicada:** revisa `case-studies/`.
+3. **Si quieres acelerar tu documentación con IA:** consulta `productivity-prompts/` para prompts probados en Copilot, ChatGPT y Claude.
+4. **Si vas a publicar experiencia real de un proyecto bajo NDA:** lee primero `case-studies/nda-safe-portfolio-guidelines.md`.
+
+Todos los documentos están en formato **Markdown (.md)**, listos para copiar, adaptar o exportar a Word/PDF según se requiera.
+
+---
+
+## 🛠️ Estándares y Metodologías de Referencia
+
+Este toolkit se alinea con los siguientes marcos reconocidos en la industria:
+
+- **PMI / PMBOK** — Gestión de proyectos
+- **Lean Six Sigma (DMAIC)** — Mejora de procesos
+- **Agile / Scrum / Kanban** — Gestión ágil de entregables
+- **BPMN** — Notación para mapeo de procesos de negocio
+- **ISO 27001** (como referencia) — Seguridad de la información en proyectos TI/GovTech
+
+---
+
+## 🗺️ Roadmap de Contenidos
+
+| Sección | Estado | Próximos entregables |
+|---|---|---|
+| `case-studies/` | 🟢 En progreso | Casos adicionales por industria (fintech, salud, retail) |
+| `project-templates/` | 🔴 Pendiente | Project Charter, matriz de riesgos, plan de stakeholders, presupuesto |
+| `process-maps/` | 🔴 Pendiente | Plantilla AS-IS/TO-BE, diagrama BPMN de referencia |
+| `productivity-prompts/` | 🔴 Pendiente | Biblioteca de prompts PMO para Copilot/ChatGPT/Claude |
+| `lean-agile-tools/` | 🔴 Pendiente | Sprint planning, Kanban board, retrospectivas |
+| `documentation-samples/` | 🔴 Pendiente | SOPs, manuales técnicos de ejemplo |
+| `ai-automation-tools/` | 🔴 Pendiente | Scripts e integraciones de automatización con IA |
+| `assets/` |
